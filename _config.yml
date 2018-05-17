@@ -1,6 +1,6 @@
 title: Deva's App
 description: Introduction pages of Deva's app.
 show_downloads: false
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-cayman
 lang: zh-CN
